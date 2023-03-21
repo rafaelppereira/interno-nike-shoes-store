@@ -1,0 +1,71 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Alpha bounce",
+      "slug": "alpha-bounce",
+      "description": "Correr é um ritual diário, cada passo aproxima você da sua meta pessoal. Deixe o Nike Air Zoom Pegasus 39 levar você a um novo patamar com um design intuitivo, seja para o treino ou para a corrida. Mais leve na parte de cima do que o Pegasus 38 e ideal para todas as estações, ele tem uma sensação de suporte para ajudar a manter os pés firmes, enquanto o amortecimento debaixo do pé e as unidades Zoom Air duplas (uma a mais que o Peg 38) deixam seus passos mais rápidos. Seu confiável companheiro com asas está de volta. É hora de voar.",
+      "in_stock": 5,
+      "original_price": 450,
+      "price": 299.90,
+      "thumbnail": "https://images.unsplash.com/photo-1600185365926-3a2ce3cdb9eb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1625&q=80",
+      "product_images": [
+        {
+          "id": 1,
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Air Max",
+      "slug": "air-max",
+      "description": "Correr é um ritual diário, cada passo aproxima você da sua meta pessoal. Deixe o Nike Air Zoom Pegasus 39 levar você a um novo patamar com um design intuitivo, seja para o treino ou para a corrida. Mais leve na parte de cima do que o Pegasus 38 e ideal para todas as estações, ele tem uma sensação de suporte para ajudar a manter os pés firmes, enquanto o amortecimento debaixo do pé e as unidades Zoom Air duplas (uma a mais que o Peg 38) deixam seus passos mais rápidos. Seu confiável companheiro com asas está de volta. É hora de voar.",
+      "in_stock": 97,
+      "original_price": 2304.80,
+      "price": 1650.60,
+      "thumbnail": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80",
+      "product_images": [
+        {
+          "id": 1,
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Nike Shocks",
+      "slug": "nike-shocks",
+      "description": "Correr é um ritual diário, cada passo aproxima você da sua meta pessoal. Deixe o Nike Air Zoom Pegasus 39 levar você a um novo patamar com um design intuitivo, seja para o treino ou para a corrida. Mais leve na parte de cima do que o Pegasus 38 e ideal para todas as estações, ele tem uma sensação de suporte para ajudar a manter os pés firmes, enquanto o amortecimento debaixo do pé e as unidades Zoom Air duplas (uma a mais que o Peg 38) deixam seus passos mais rápidos. Seu confiável companheiro com asas está de volta. É hora de voar.",
+      "in_stock": 45,
+      "original_price": 1050,
+      "price": 680.90,
+      "thumbnail": "https://images.unsplash.com/photo-1605348532760-6753d2c43329?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+      "product_images": [
+        {
+          "id": 1,
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Nike Balance",
+      "slug": "nike-balance",
+      "description": "Correr é um ritual diário, cada passo aproxima você da sua meta pessoal. Deixe o Nike Air Zoom Pegasus 39 levar você a um novo patamar com um design intuitivo, seja para o treino ou para a corrida. Mais leve na parte de cima do que o Pegasus 38 e ideal para todas as estações, ele tem uma sensação de suporte para ajudar a manter os pés firmes, enquanto o amortecimento debaixo do pé e as unidades Zoom Air duplas (uma a mais que o Peg 38) deixam seus passos mais rápidos. Seu confiável companheiro com asas está de volta. É hora de voar.",
+      "in_stock": 7,
+      "original_price": 745.30,
+      "price": 610.90,
+      "thumbnail": "https://images.unsplash.com/photo-1582588678413-dbf45f4823e9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1065&q=80",
+      "product_images": [
+        {
+          "id": 1,
+          "url": ""
+        }
+      ]
+    }
+  ]
+}
+
+
+
